@@ -1,0 +1,27 @@
+{
+  "name": "wuzlog",
+  "version": "0.0.1",
+  "description": "The site for a blog on Wuzzard.com",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "marked": "^0.3.19",
+    "pug": "^2.0.3",
+    "jstransformer-markdown-it": "^2.0.0"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/wuzlog"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "blog"
+  ]
+}

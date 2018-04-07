@@ -1,0 +1,14 @@
+extends ../template/post.pug
+block content
+  p!= marked(content)
+block tags
+  #{tags}
+block foot
+  div#disqus_thread
+  script
+    include ./comments.js
+  noscript 
+    Please enable JavaScript to view the 
+    a(href="https://disqus.com/?ref_noscript") comments 
+    powered by Disqus.
+                            
