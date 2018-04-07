@@ -1,0 +1,10 @@
+extends ../template/index.pug
+block content
+  div.header
+    div#title
+      h1.nomargin Not a blog
+      div#description By someone too busy to write one
+  ul
+    each post in posts
+      li
+        a(href='p/' + post.path) #{post.name}

@@ -1,0 +1,16 @@
+doctype html
+html
+  head
+   title #{title}
+   link(rel='stylesheet' href='/style.css')
+   link(rel='stylesheet' href='/prism.css')
+   script(src='/prism.js')
+   block body
+   div#footer
+     p This blog was built on Glitch. Wanna make one yourself? Click the button below.
+     a(href='https://glitch.com/edit/#!/remix/wuzlog')
+       img(
+         src='https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg'
+         alt='Remix on Glitch'
+         style='background:white;border-radius:6px;'
+       )

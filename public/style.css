@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans:400,700|Lato:700');
+
+* {
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 2% 5%;
+  font-family: 'Noto Sans';
+  background-color: #222222;
+  color: #fff;
+  font-size: 15px;
+}
+
+#title {
+  font-size: 48px;
+}
+
+#title h1 a {
+  border: none;
+}
+
+p {
+  max-width: 60em;
+  font-size: 15px;
+}
+
+.nomargin {
+   margin: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 0;
+  max-width: 36em;
+  font-family: 'Lato';
+}
+
+a {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  text-decoration: none;
+}
+
+article {
+  padding: 2% 5%;
+}
+
+h3.title a {
+  font-size: 48px;
+  border-bottom: none;
+  color: #fff;
+  text-decoration: none;
+}
+
+section.page {
+  padding: 2% 5%;
+}
+
+.subtitle {
+  font-size: 24px;
+}
+
+.blog-post header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.content {
+  max-width: 60em;
+}
+
+.header {
+  border-bottom: 1px solid #fff;
+  padding-bottom: 2%;
+  margin-bottom: 2%;
+}
+
+#footer {
+  border-top: 1px solid #fff;
+  padding-top: 2%;
+  margin-top: 2%;
+}
