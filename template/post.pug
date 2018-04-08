@@ -1,11 +1,12 @@
 extends ./all.pug
 block body
-  div.header
-        div#title
-          h1.nomargin 
-            a(href='/') Not a blog
-  h1 #{title}
-  h3 #{created}
-  block content
-  block tags
-  block foot
+  div.content
+    div.header
+          div#title
+            h1.nomargin 
+              a(href='/') Not a blog
+    h1 #{title}
+    h3 #{created}
+    block content
+    block tags
+    block foot

@@ -22,7 +22,7 @@ One of my favorite trick videos:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tKNcRIUEyo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-The video aboove shows some of the really cool things you can do with Myachi's. Monk and Animal were two 'masters' - people employed by the company to sell the toy in toy stores in NYC. All the kids who got into Myachi dreamed of being Masters one day. Who doesn't want to get paid to play with toys?
+The video above shows some of the really cool things you can do with Myachi's. Monk and Animal were two 'masters' - people employed by the company to sell the toy in toy stores in NYC. All the kids who got into Myachi dreamed of being Masters one day. Who doesn't want to get paid to play with toys?
 
 For me, Myachi was a place to meet people from all over the world. At this point, I was 13, in Junior High, and not really great at anything. I got a lot of confidence from learning tricks - I showed off a lot at amusement parks, tourist attractions, or anywhere there were people that might be interested.
 
